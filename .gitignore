@@ -1,3 +1,7 @@
 .terraform/
 *.tfstate*
 test*.tfvars
+.ruby-version
+.kitchen/
+Gemfile.lock
+.DS_Store

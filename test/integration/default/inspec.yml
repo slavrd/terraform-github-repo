@@ -1,0 +1,15 @@
+---
+name: default
+attributes:
+  - name: full_name
+    type: string
+  - name: html_url
+    type: string
+  - name: ssh_clone_url
+    type: string
+  - name: in_var_gh_repo_name
+    type: string
+  - name: in_var_gh_organization
+    type: string
+  - name: in_var_gh_repo_description
+    type: string

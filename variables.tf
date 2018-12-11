@@ -1,6 +1,5 @@
 variable "gh_token" {
-  type    = "string"
-  default = ""
+  type = "string"
 }
 
 variable "gh_organization" {
@@ -12,6 +11,6 @@ variable "gh_repo_name" {
 }
 
 variable "gh_repo_description" {
-  type = "string"
+  type    = "string"
   default = ""
 }

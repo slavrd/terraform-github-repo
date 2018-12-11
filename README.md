@@ -45,7 +45,7 @@ Variables to set:
 
 ## Set up Kitchen-CI
 
-In .kitchen.yml set the file containing Terraform variables' values
+In `.kitchen.yml` set the file containing Terraform variables' values
 
 ```YAML
 variable_files:
